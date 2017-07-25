@@ -36,7 +36,7 @@ class HomePage extends Component {
         return (
             <div className="page container" id="home">
                 <h1>Home</h1>
-                <h3>This is the home page</h3>
+                <h3>React todo example</h3>
             </div>
         );
     }
